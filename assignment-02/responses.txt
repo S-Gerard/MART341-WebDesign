@@ -1,0 +1,12 @@
+How is the world wide web different than the internet?
+  The internet is a physical network of networks and the world wide web is a way of accessing information over the internet. 
+Briefly describe how the internet works.
+  The internet works by connecting computers so they can communicate. 
+What is a directory, and what is its relationship to files?
+  directories are like folders to organize your files in. 
+How will VCS benefit you?
+  It will allow us to track changes to our homework and easily revert to previous versions when testing. 
+Take a screenshot anytime while working on your homework.
+What is your favorite kind of art?
+  I enjoy painting and charcoal drawing. I prefer realistic drawings and paintings. 
+Rename this screenshot using proper naming conventions, and upload it to your assignment-02 directory.
