@@ -1,0 +1,15 @@
+Three websites I enjoy visiting:
+1. https://www.youtube.com/
+2. https://www.supercook.com/#/recipes
+3. https://www.netflix.com/
+
+What is the relationship between an IP address and the DNS?
+An IP address is the direct address for a server. The DNS is the Domain Name System and its like an address book that our browser uses to locate the IP addresses to the sites we are trying to visit.
+
+What is a cookie?
+A cookie is a packet of data that gets stored on your computer when you visit a site. Next time you visit the site it uses the cookie to keep record of you and your activity on the site.
+
+List the three essential parts of a URL.
+1. Protocol/Scheme
+2. Authority/Domain Name
+3. Path
