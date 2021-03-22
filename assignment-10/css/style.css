@@ -1,0 +1,46 @@
+body {
+  background-color: #FBEFE1;
+  font-family: 'Trebuchet MS', sans-serif;
+}
+
+.main-container {
+  width: 75%;
+  margin: auto;
+
+}
+
+.secondary-container {
+  width: 50%;
+  margin: auto;
+  /*make background color light pink*/
+  background: #F7D6D2;
+  /*add a solid orange border*/
+  border-style: solid;
+  border-width: 7px;
+  padding: 60px;
+  border-color: #F9A366;
+}
+
+h1 {
+  font-family: 'Brush Script MT', cursive;
+  font-size: 60px;
+  text-align: center;
+  color: #E05C31;
+}
+
+h2 {
+  font-size: 30px;
+  text-align: center;
+  color: #E05C31;
+}
+
+#flower {
+  position: absolute;
+  left: 350px;
+  top: 37px;
+  opacity: .8;
+}
+p {
+  font-size: 20px;
+  padding-left: 20px;
+}
