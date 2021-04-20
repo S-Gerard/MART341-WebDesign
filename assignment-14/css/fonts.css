@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'EBGaramond';
+  src: url('../fonts/EBGaramond-VariableFont_wght.ttf') format('truetype');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FiraSans';
+  src: url('../fonts/FiraSans-Regular.ttf') format('truetype');
+  font-style: normal;
+}
